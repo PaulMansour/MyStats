@@ -1,4 +1,7 @@
-# MyStats Release 0.0.3                    
+# MyStats Release 0.0.4                    
+1. wip
+
+# MyStats Release 0.0.3 2019-09-09 06:55:52
 1. Fix the char test in the add function
 2. Check add for char data
 
