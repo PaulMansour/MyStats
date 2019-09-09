@@ -1,5 +1,5 @@
  product←{
      ⍝ This is the product function
-     160=⎕DR ⍵:0
+     0=10|⎕DR ⍵:0
      ×/⍵
  }
