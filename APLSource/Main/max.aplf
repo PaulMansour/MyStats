@@ -1,0 +1,5 @@
+ max←{
+     ⍝ The max function
+     80=⎕DR ⍵:0
+     ⌈/⍵
+ }
