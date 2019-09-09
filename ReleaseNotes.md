@@ -1,4 +1,8 @@
-# MyStats Release 0.0.2                    
+# MyStats Release 0.0.3                    
+1. Fix the char test in the add function
+2. Check add for char data
+
+# MyStats Release 0.0.2 2019-09-09 06:40:33
 1. Document sum function
 2. Clean up sum function
 
