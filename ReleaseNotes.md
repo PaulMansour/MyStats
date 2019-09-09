@@ -1,4 +1,10 @@
-# MyStats Release 0.0.4                    
+# MyStats Release 0.0.5                    
+1. Enhancing the product function
+2. Fixed bug #14
+3. Added a guard
+4. Fix bug #12
+
+# MyStats Release 0.0.4 2019-09-09 07:59:59
 1. wip
 
 # MyStats Release 0.0.3 2019-09-09 06:55:52
