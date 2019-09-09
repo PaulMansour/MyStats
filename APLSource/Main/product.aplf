@@ -1,4 +1,5 @@
  product←{
      ⍝ This is the product function
+     80=⎕DR ⍵:0
      ×/⍵
  }
