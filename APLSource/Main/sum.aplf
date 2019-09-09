@@ -1,4 +1,5 @@
  sum←{
      ⍝ The sum function
+     160=⎕DR ⍵:0
      +/⍵
  }
