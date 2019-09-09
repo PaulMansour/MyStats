@@ -1,0 +1,4 @@
+ min←{
+     ⍝ The min function
+     ⌊/⍵
+ }
