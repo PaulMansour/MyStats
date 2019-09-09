@@ -1,4 +1,8 @@
-# MyStats Release 0.0.1                    
+# MyStats Release 0.0.2                    
+1. Document sum function
+2. Clean up sum function
+
+# MyStats Release 0.0.1 2019-09-09 06:25:53
 
 # MyStats Release 0.0.0 2019-09-09 06:24:58
 1. Fix bug #17
