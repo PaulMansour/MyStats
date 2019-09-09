@@ -1,0 +1,4 @@
+ product←{
+     ⍝ This is the product function
+     ×/⍵
+ }
